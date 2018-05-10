@@ -8,7 +8,7 @@ target 'eluxity' do
   # Pods for eluxity
 
   # Required by RNFirebase
-  pod 'Firebase/Core'
+  pod 'Firebase/Core', '~> 4.13.0'
   pod 'Firebase/Auth'
 
 
